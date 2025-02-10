@@ -9,6 +9,8 @@ public class User {
 	String password;
 	String phone;
 	int userStatus=0;
+	
+	
   
 	int id;
 	public int getId() {
